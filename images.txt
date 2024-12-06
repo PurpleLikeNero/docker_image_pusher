@@ -1,5 +1,6 @@
 #nginx
 #pytorch/pytorch:2.1.0-cuda11.8-cudnn8-runtime
+
 dockerproxy.cn/yanwk/comfyui-boot:cu124-cn
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
