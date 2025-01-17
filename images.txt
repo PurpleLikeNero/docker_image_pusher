@@ -1,9 +1,7 @@
 #nginx
 #pytorch/pytorch:2.1.0-cuda11.8-cudnn8-runtime
-
-ghcr.io/ggerganov/llama.cpp:full-cuda
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64
+--platform=linux/arm64 ghcr.io/ggerganov/llama.cpp:full-cuda
