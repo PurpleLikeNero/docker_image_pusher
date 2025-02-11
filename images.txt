@@ -2,5 +2,5 @@
 #pytorch/pytorch:2.1.0-cuda11.8-cudnn8-runtime
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#支持指定架构
+#支持指定架构1
 --platform=linux/amd64 lmsysorg/sglang:latest
