@@ -3,5 +3,4 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构1
---platform=linux/amd64 node:20.16.0
---platform=linux/amd64 pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel
+--platform=linux/amd64 vllm/vllm-openai:latest
