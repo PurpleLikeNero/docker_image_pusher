@@ -3,5 +3,8 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构1
---platform=linux/amd64 pytorch/pytorch:2.1.0-cuda11.8-cudnn8-devel
+#--platform=linux/amd64 pytorch/pytorch:2.1.0-cuda11.8-cudnn8-devel
+docker.io/library/caddy:2-alpine
+docker.io/valkey/valkey:8-alpine
+docker.io/searxng/searxng:latest
 
