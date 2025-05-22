@@ -9,6 +9,5 @@ langgenius/dify-api:1.4.0
 langgenius/dify-web:1.4.0
 langgenius/dify-sandbox:0.2.12
 langgenius/dify-plugin-daemon:0.0.10-local
-registry.vastdata.com.cn/vastdata/vastbase-vector:latest
 oceanbase/oceanbase-ce:4.3.5.1-101000042025031818
 
