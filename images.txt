@@ -4,10 +4,5 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构1
 #--platform=linux/amd64 pytorch/pytorch:2.1.0-cuda11.8-cudnn8-devel
-node:22-alpine3.21
-langgenius/dify-api:1.4.0
-langgenius/dify-web:1.4.0
-langgenius/dify-sandbox:0.2.12
-langgenius/dify-plugin-daemon:0.0.10-local
-oceanbase/oceanbase-ce:4.3.5.1-101000042025031818
+nginx:v1
 
